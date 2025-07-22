@@ -4,7 +4,7 @@ var accountPassword="xyzabc"
 accountCity="Kolkata"
 let accountState
 
-/* let and var use forall other 
+/* let and var use for all other 
     but avoid var use only let
     because of issue in block scope and functional scope
 */

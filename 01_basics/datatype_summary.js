@@ -40,21 +40,23 @@ console.log(typeof anotherId);
 
                   Type                                   typeof
 
-i)             Number                               number
+i)             Number                                   number
 ii)            String                                   string
-iii)           Boolean                               boolean
-iv)           Bigint                                   bigint
-v)            Symbol                                symbol
+iii)           Boolean                                  boolean
+iv)           Bigint                                    bigint
+v)            Symbol                                    symbol
 vi)           Null                                      object
-vii)          Undefined                           undefined
+vii)          Undefined                                 undefined
 
 
 * Non-Premitive OR Referance OR Object datatype
 
                   Type                                   typeof
 
-i)               Object                                object
+i)               Object                                 object
 ii)              Array                                  object
-iii)             Function                            function(object)
+iii)             Function                               function(object)
 
 */
+
+// Stack(primitive)  Heap(non primitive)
